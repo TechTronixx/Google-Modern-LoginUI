@@ -1,10 +1,11 @@
+# Google Login UI - 2024
 
-  # Google Login UI - Modern - 1
+A modern take on the Google Login UI, Designed in tailwind , build on ReactJS.
+Code covnerted via LocofyAI , Via Figma Design.
 
-  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
+## Features
+- Responsive
 
-  To preview and run the project on your device:
-  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
-  2) In the terminal, run `npm install`
-  3) Run `npm start` to view project in browser
-  
+## Todo 
+- Fix Element's
+- Clean code component's  

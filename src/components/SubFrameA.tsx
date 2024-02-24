@@ -24,7 +24,7 @@ const SubFrameA: FunctionComponent = () => {
                 <span className={styles.in}>in</span>
               </h1>
             </div>
-            <h3 className={styles.useYourGoole}>Use your Goole Account</h3>
+            <h3 className={styles.useYourGoole}>Use your Goolge Account</h3>
           </div>
         </div>
         <div className={styles.subFrameJ}>
